@@ -1,0 +1,35 @@
+body {
+    background-image: url(fo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.name {
+    color: #C3C3C3;
+}
+.text {
+    color: #C3C3C3;
+}
+.age {
+    color: #FFFFFF;
+}
+.numb {
+    color: #C3C3C3;
+}
+.none {
+  color: #FFFFFF;
+}
+.more {
+    color: #C3C3C3;
+}
+.ok {
+    color: #C3C3C3;
+}
+.gag {
+    color: #FFFFFF;
+}
+.et {
+    color: #C3C3C3;
+}
+.my {
+    color: #FFFFFF;
+}
